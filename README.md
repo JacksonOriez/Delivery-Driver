@@ -1,1 +1,2 @@
 # Delivery-Driver
+This project is one that I worked on for my Object-Oriented Programming class (CS 180 - Purdue University). The project is an abstraction of a sandwich shop that delivers. The program keeps track of inputted drivers’ information, as well as orders that customers input. The client can choose to either input their own driver's info or it will create two basic drivers. The program also keeps track of store profits based on the drivers’ wages and cost of producing their product.
